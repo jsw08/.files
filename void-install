@@ -1,0 +1,30 @@
+    3  sudo xbps-install -S hyprland xdg-desktop-portal-hyprland
+    9  sudo xbps-install git
+   19  sudo xbps-install bluetui btop deno firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   20  sudo xbps-installbtop deno firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   21  sudo xbps-install btop deno firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   22  sudo xbps-install btop deno firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   24  xbps-install
+   25  xbps-install Su
+   26  sudo xbps-install Su
+   27  sudo xbps-install -Su
+   28  sudo xbps-install btop deno firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   29  sudo xbps-install btop denojs firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   30  sudo xbps-install btop firefox fish fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   31  sudo xbps-install btop firefox fish-shell fzf gh imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   32  sudo xbps-install btop firefox fish-shell fzf github-cli imagemagick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   33  sudo xbps-install btop firefox fish-shell fzf github-cli magick jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   36  sudo xbps-install btop firefox fish-shell fzf github-cli  jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep satty scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   37  sudo xbps-install btop firefox fish-shell fzf github-cli  jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep scrcpy slurpw3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   38  sudo xbps-install btop firefox fish-shell fzf github-cli  jq neovim ncspot openssh pipewire playerctl pulsemixer ripgrep scrcpy slurp w3m wget wireplumber wl-clipboard xdg-user-dirs zoxide yazi 
+   39  sudo xbps-install tmux w3m
+   42  sudo xbps-install linux-firmware-amd 
+   43  sudo xbps-install snooze
+   77  sudo xbps-install chrony
+   86  sudo xbps-install polkit
+   90  sudo xbps-install nftables
+   92  sudo xbps-install mesa-dri mesa-vulkan-radeon xf86-video-amdgpu mesa-vaapi mesa-vdpau
+  122  sudo xbps-install github
+  123  sudo xbps-install github-cli
+  167  history | grep xbps-install
+  168  history | grep xbps-install > void-install
