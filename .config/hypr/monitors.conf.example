@@ -1,3 +1,19 @@
 monitor=DP-1,2560x1440@165,0x0,1
 monitor=HDMI-A-1,1920x1080,2560x540,1
 
+# Set workspace 1-4 for main monitor
+# 4-10 for secondary
+workspace = 1, monitor:DP-1
+workspace = 2, monitor:DP-1
+workspace = 3, monitor:DP-1
+
+workspace = 4, monitor:HDMI-A-1
+workspace = 5, monitor:HDMI-A-1
+workspace = 6, monitor:HDMI-A-1
+workspace = 7, monitor:HDMI-A-1
+workspace = 8, monitor:HDMI-A-1
+workspace = 9, monitor:HDMI-A-1
+workspace = 0, monitor:HDMI-A-1
+
+
+
