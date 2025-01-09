@@ -1,3 +1,11 @@
 
 2025/01/09 (09:23:00) | ===> btop++ v.1.4.0
 2025/01/09 (09:23:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/09 (12:42:05) | ===> btop++ v.1.4.0
+2025/01/09 (12:42:05) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2025/01/09 (12:42:09) | ===> btop++ v.1.4.0
+2025/01/09 (12:42:09) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/09 (12:42:09) | WARNING: ROCm SMI: Failed to get PCIe throughput
