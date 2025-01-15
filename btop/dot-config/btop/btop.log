@@ -9,3 +9,25 @@ btop++ needs an interactive shell to run.
 2025/01/09 (12:42:09) | ===> btop++ v.1.4.0
 2025/01/09 (12:42:09) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
 2025/01/09 (12:42:09) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/01/12 (15:08:02) | ===> btop++ v.1.4.0
+2025/01/12 (15:08:02) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/12 (15:08:02) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/12 (15:33:28) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (15:33:28) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/01/13 (13:59:42) | ===> btop++ v.1.4.0
+2025/01/13 (13:59:42) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/13 (13:59:42) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/01/13 (14:01:00) | ===> btop++ v.1.4.0
+2025/01/13 (14:01:00) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/13 (14:01:00) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/01/13 (14:01:19) | ===> btop++ v.1.4.0
+2025/01/13 (14:01:19) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/13 (14:01:19) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/01/13 (14:03:10) | ===> btop++ v.1.4.0
+2025/01/13 (14:03:10) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/13 (14:03:10) | WARNING: ROCm SMI: Failed to get PCIe throughput

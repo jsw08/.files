@@ -1,0 +1,24 @@
+(defsrc
+  caps d h j k l
+)
+
+(deflayer default
+  @cap  _ _ _ _ _
+)
+
+(deflayer arrows
+  _ @tablayer left down up right
+)
+
+(deflayer tabs
+  _ _ @tableft _ _ @tabright
+)
+
+
+(defalias
+  cap (tap-hold-press 170 170 esc (layer-toggle arrows))
+  tablayer (layer-while-held tabs)
+  tableft (multi lctrl lshift tab)
+  tabright (multi lctrl tab)
+)
+
