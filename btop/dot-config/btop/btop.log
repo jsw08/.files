@@ -34,3 +34,6 @@ btop++ needs an interactive shell to run.
 
 2025/01/17 (00:00:16) | ===> btop++ v.1.4.0
 2025/01/17 (00:00:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/19 (10:56:11) | ===> btop++ v.1.4.0
+2025/01/19 (10:56:11) | WARNING: Intel GPU: Failed to initialize PMU
