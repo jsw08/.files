@@ -46,3 +46,21 @@ btop++ needs an interactive shell to run.
 
 2025/01/21 (22:35:39) | ===> btop++ v.1.4.0
 2025/01/21 (22:35:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/29 (17:23:10) | ===> btop++ v.1.4.0
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get GPU power usage
+2025/01/29 (17:23:10) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/01/29 (17:34:05) | ===> btop++ v.1.4.0
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get GPU power usage
+2025/01/29 (17:34:05) | WARNING: ROCm SMI: Failed to get PCIe throughput
