@@ -6,3 +6,17 @@ edit = [
   { run = 'nvim "$@"', block = true, desc = "nvim", for = "unix" },
 ]
 
+[[manager.prepend_keymap]]
+on   = [ "g", "d" ]
+run  = "cd ~/Documents"
+desc = "Cd to ~/Documents"
+
+[[manager.prepend_keymap]]
+on   = [ "g", "f" ]
+run  = "cd ~/.files"
+desc = "Cd to ~/.files"
+
+[[manager.prepend_keymap]]
+on   = [ "g", "a" ]
+run  = "cd ~/.cache"
+desc = "Cd to ~/.cache"
